@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wakilahmadhamidi
+- 👋 Hi, I’m @wakilahmad
 - 👀 I’m interested in Learning and Exploring new things
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Some Projects and real world problems
