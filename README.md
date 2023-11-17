@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @wakilahmad
+- 👋 Hi, I’m @wakilahmadhamidi
 - 👀 I’m interested in Learning and Exploring new things
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m final year student of B.Tech (CSE)
+- 🌱 I’m specializing in App Development and AI
 - 💞️ I’m looking to collaborate on Some Projects and real world problems
-- 📫 How to reach me wakilahmadhamidi24@gmail.com
+- 📫 Reach to me at wakilahmadhamidi24@gmail.com
 
 <!---
 wakilahmadhamidi/wakilahmadhamidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
