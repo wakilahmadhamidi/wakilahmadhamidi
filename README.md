@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @wakilahmadhamidi
+- 👋 Hi, I’m Wakil Ahmad Hamidi
 - 👀 I’m interested in Learning and Exploring new things
 - 🌱 I’m final year student of B.Tech (CSE)
-- 🌱 I’m specializing in App Development and AI
+- 🌱 I’m specializing in ML, AI, Software Engineering
 - 💞️ I’m looking to collaborate on Some Projects and real world problems
 - 📫 Reach to me at wakilahmadhamidi24@gmail.com
-
-<!---
-wakilahmadhamidi/wakilahmadhamidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Github: https://github.com/wakilahmadhamidi
+- LinkedIn: https://www.linkedin.com/in/wakil-ahmad-hamidi-34aa37174/
